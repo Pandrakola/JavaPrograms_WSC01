@@ -12,4 +12,9 @@ public class StringBuffer {
 
 	}
 
+	private void append(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

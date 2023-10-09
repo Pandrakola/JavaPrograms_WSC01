@@ -8,6 +8,11 @@ public class StringBuilder {
 		 System.out.println(Builder);
 	}
 
+	private void append(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
 	
 		
 	}
@@ -16,6 +21,6 @@ public class StringBuilder {
 
 	
 		
-	}
+	
 
 
